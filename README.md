@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**Mahyardata/Mahyardata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Mahyar, a passionate **Data Analyst** who loves turning raw data into meaningful insights!  
 
-Here are some ideas to get you started:
+### 🔍 About Me:  
+- 📊 **Exploring data** with SQL, Python, and R  
+- 📈 Creating **interactive visualizations** with Tableau & Power BI  
+- 🚀 **Currently learning** advanced analytics 
+- 🎯 **Looking to collaborate** on exciting data-driven projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📫 How to Reach Me:  
+- 📧 Email: mahyar.razavian@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahyar-razavian/)  
+- 📝 [Tableau](https://public.tableau.com/app/profile/mahyar.razavian/vizzes)  
+
+### ⚡ Fun Fact:  
+I can spend hours analyzing a dataset just for fun! 😄
 -->
